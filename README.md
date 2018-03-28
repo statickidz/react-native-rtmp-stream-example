@@ -53,3 +53,7 @@ yarn android
 yarn ios-bundle
 yarn ios
 ```
+
+#### Open stream in _VLC_ or similar
+
+rtmp://YOUR.SERVER.IP.ADDRESS/live/TESTING
