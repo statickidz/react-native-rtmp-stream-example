@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "sdkVersion": "25.0.0",
+    "name": "React Native Starter Kit",
+    "slug": "react-native-starter-kit",
+    "icon": "src/images/app-icon.png",
+    "privacy": "public"
+  },
+  "name": "rnsk",
+  "displayName": "React Native Starter Kit"
+}
