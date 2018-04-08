@@ -24,10 +24,10 @@ class Stream extends React.Component {
           <NodeCameraView 
             style={{ height: 400 }}
             ref={(vb) => { this.vb = vb }}
-            outputUrl = {"rtmp://192.168.0.200/live/TESTING"}
+            outputUrl = {"rtmp://192.168.0.163/live/TESTING"}
             camera={{ cameraId: 1, cameraFrontMirror: true }}
             audio={{ bitrate: 32000, profile: 1, samplerate: 44100 }}
-            video={{ preset: 12, bitrate: 400000, profile: 1, fps: 15, videoFrontMirror: false }}
+            video={{ preset: 24, bitrate: 400000, profile: 2, fps: 30, videoFrontMirror: true }}
             autopreview={true}
           />
 

@@ -1,0 +1,12 @@
+PODS:
+  - NodeMediaClient (2.4.2)
+
+DEPENDENCIES:
+  - NodeMediaClient
+
+SPEC CHECKSUMS:
+  NodeMediaClient: 40fb4a084da8f3b00113c2b5d235e5302b5785a9
+
+PODFILE CHECKSUM: 593ec8b31dc23f297d3603fa70d6900da50df253
+
+COCOAPODS: 1.4.0

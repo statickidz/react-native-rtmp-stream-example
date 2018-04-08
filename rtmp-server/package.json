@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-media-server": "^1.2.5"
+    "node-media-server": "^1.2.5",
+    "rtmp-server": "^0.2.0"
   }
 }
