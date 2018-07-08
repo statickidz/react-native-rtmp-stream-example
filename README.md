@@ -54,6 +54,18 @@ yarn ios-bundle
 yarn ios
 ```
 
+#### Change your server IP
+I'm using Genymotion default PC IP, customize yours
+rtmp-client\src\native\components\Stream.js
+```
+...
+outputUrl = {"rtmp://10.0.3.2/live/TESTING"}
+...
+```
+
 #### Open stream in _VLC_ or similar
 
-rtmp://YOUR.SERVER.IP.ADDRESS/live/TESTING
+rtmp://127.0.0.1/live/TESTING
+
+![running](https://i.gyazo.com/14ed0f771e966d6163b3ffe8b8628deb.png)
+![vlc](https://i.gyazo.com/23fff81b65894c5485dc94b0ec505ad4.png)

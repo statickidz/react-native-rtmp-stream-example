@@ -295,6 +295,10 @@ raw-body@2.3.2:
     iconv-lite "0.4.19"
     unpipe "1.0.0"
 
+rtmp-server@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/rtmp-server/-/rtmp-server-0.2.0.tgz#7997efd926d3afa8cd69b35797a4d5f00e1ec455"
+
 safe-buffer@5.1.1, safe-buffer@~5.1.0:
   version "5.1.1"
   resolved "https://registry.yarnpkg.com/safe-buffer/-/safe-buffer-5.1.1.tgz#893312af69b2123def71f57889001671eeb2c853"
